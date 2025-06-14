@@ -16,4 +16,4 @@ phases:
 
   build:
     commands:  
-      - echo "Running sam deploy..."
+      - echo "Running sam deploy...."
